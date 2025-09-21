@@ -59,7 +59,7 @@ Pri čemu vidimo da \(u\) odgovara radijusu, a \(v\) azimutalnom uglu u ravnim p
 * **(b)** Pronaći marginal p.d.fs za $u$ i $v$.  
 
 
-##2. Testiranje hipoteza
+## 2. Testiranje hipoteza
 
 ### 2.1 Z-test
 
