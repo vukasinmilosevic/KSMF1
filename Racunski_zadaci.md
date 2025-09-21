@@ -1,6 +1,6 @@
 # KSMF 1 zadaci
 * Legenda: (v) - zadatak pokriven na vežbama
-##1. Osnovni pojmovi verovatnoće
+## 1. Osnovni pojmovi verovatnoće
 
 1. (v) Kolmogorov aksiome: Pokazati da je: $P(A\cup B)=P(A)+P(B)-P(A\cap B)$.
 
