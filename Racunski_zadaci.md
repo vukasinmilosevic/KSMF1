@@ -120,10 +120,26 @@ Kakav zaključak o hipotezi možemo doneti? Detaljno obrazložiti izabrani test 
 Profesor veruje da je ova vrednost u realnosti manja. On uzima uzorak od 20 rezultata ispita i nalazi da je standardna devijacija 6.9.  
 Da li ovaj uzorak pruža dovoljno dokaza da se zaključi da je prava standardna devijacija manja od 8.6?
 
-  
+### 2.4 Confidence intervals (CI)
+
+17. (v) Iz slučajnog uzorka od 100 muškaraca dobijena je prosečna visina od 180 cm. Varijansa populacije je $\sigma^2 = 49~\text{cm}^2$. Pronaći 95\% CI za $\mu$, prosečnu visinu populacije.
+18. (v) Vek trajanja 10 sijalica posmatran je (u satima) i iznosi:
+    
+| 1052 | 1271 | 836 | 962 | 1019 | 1051 | 512 | 1027 | 1219 | 1040 | 
+|------|------|------|------|------|------|------|------|------|------|
+
+Pretpostavljajući da je standardna devijacija za sijalice ovog tipa $\sigma = 80~\text{h}$,  
+
+* **(a)** Pronaći 95\% CI za prosečan vek trajanja ovog tipa sijalica;  
+
+* **(b)** Pronaći procenat intervala poverenja koji ima ukupni raspon od 80 h;  
+
+* **(c)** Odrediti veličinu uzorka $n$ koja je potrebna da bi se raspon 95\% intervala poverenja sveo na 50 h.
+
+
 ## 3. Maximum likelihood estimator (MLE)
 
-17. (v) Ako se eksperiment sastoji od $n$ Bernoulli trial sa verovatnoćom uspeha p, odrediti MLE.
-18. (v) Procena metodom MLE može se primeniti na vektorski parametar. Za jednostavan slučajni uzorak od $n$ normalnih slučajnih promenljivih, iskoristiti osobine eksponencijalne funkcije zarad pojednostavljivanja likelihood-a. Odrediti MLE.
+19. (v) Ako se eksperiment sastoji od $n$ Bernoulli trial sa verovatnoćom uspeha p, odrediti MLE.
+20. (v) Procena metodom MLE može se primeniti na vektorski parametar. Za jednostavan slučajni uzorak od $n$ normalnih slučajnih promenljivih, iskoristiti osobine eksponencijalne funkcije zarad pojednostavljivanja likelihood-a. Odrediti MLE.
 
 
