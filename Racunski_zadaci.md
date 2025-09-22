@@ -97,8 +97,7 @@ Pri čemu vidimo da \(u\) odgovara radijusu, a \(v\) azimutalnom uglu u ravnim p
 
 Kakav zaključak o hipotezi možemo doneti? Detaljno obrazložiti izabrani test hipoteza.
 
-14. Dva različita metoda analize korišćena su za određivanje nivoa nečistoća prisutnih u određenoj aluminijumskoj leguri avionskog kvaliteta.  
-Analizirano je 8 uzoraka korišćenjem oba metoda. Da li dostupni dokazi ukazuju na to da oba metoda dovode do istih rezultata? Detaljno obrazložiti izabrani test hipoteza.
+14. Dva različita metoda analize korišćena su za određivanje nivoa nečistoća prisutnih u određenoj aluminijumskoj leguri avionskog kvaliteta. Analizirano je 8 uzoraka korišćenjem oba metoda. Da li dostupni dokazi ukazuju na to da oba metoda dovode do istih rezultata? Detaljno obrazložiti izabrani test hipoteza.
 
 | **Uzorak legure** | 1    | 2    | 3    | 4     | 5    | 6    | 7    | 8    |
 |-------------------|------|------|------|-------|------|------|------|------|
@@ -109,4 +108,37 @@ Analizirano je 8 uzoraka korišćenjem oba metoda. Da li dostupni dokazi ukazuju
 
 ### 2.3 $\chi^2$ test
 
+15. (v)  Direktor škole želi da sazna tokom kojih dana u nedelji učenici najčešće izostaju. On očekuje da će učenici izostajati podjednako tokom petodnevne školske nedelje. Direktor bira slučajan uzorak od 100 nastavnika i pita ih kog dana u nedelji su primetili najveći broj izostanaka učenika. Posmatrani i očekivani rezultati prikazani su u tabeli ispod. Na osnovu ovih rezultata, da li se dani sa najvećim brojem izostanaka javljaju sa jednakim frekvencijama, kao što je direktor pretpostavio? Koristiti nivo značajnosti od $5\%$.
+
+| **Dan**         | Ponedeljak | Utorak | Sreda | Četvrtak | Petak |
+|-----------------|------------|--------|-------|----------|-------|
+| Posmatrani izostanci | 23         | 16     | 14    | 19       | 28    |
+| Očekivani izostanci  | 20         | 20     | 20    | 20       | 20    |
+
+
+16. (v) Standardna devijacija rezultata ispita na odeljenju za matematiku na lokalnom koledžu iznosi 8.6.  
+Profesor veruje da je ova vrednost u realnosti manja. On uzima uzorak od 20 rezultata ispita i nalazi da je standardna devijacija 6.9.  
+Da li ovaj uzorak pruža dovoljno dokaza da se zaključi da je prava standardna devijacija manja od 8.6?
+
+### 2.4 Confidence intervals (CI)
+
+17. (v) Iz slučajnog uzorka od 100 muškaraca dobijena je prosečna visina od 180 cm. Varijansa populacije je $\sigma^2 = 49~\text{cm}^2$. Pronaći 95\% CI za $\mu$, prosečnu visinu populacije.
+18. (v) Vek trajanja 10 sijalica posmatran je (u satima) i iznosi:
+    
+| 1052 | 1271 | 836 | 962 | 1019 | 1051 | 512 | 1027 | 1219 | 1040 | 
+|------|------|------|------|------|------|------|------|------|------|
+
+Pretpostavljajući da je standardna devijacija za sijalice ovog tipa $\sigma = 80~\text{h}$,  
+
+* **(a)** Pronaći 95\% CI za prosečan vek trajanja ovog tipa sijalica;  
+
+* **(b)** Pronaći procenat intervala poverenja koji ima ukupni raspon od 80 h;  
+
+* **(c)** Odrediti veličinu uzorka $n$ koja je potrebna da bi se raspon 95\% intervala poverenja sveo na 50 h.
+  
 ## 3. MLE
+
+19. (v) Ako se eksperiment sastoji od $n$ Bernoulli trial sa verovatnoćom uspeha p, odrediti MLE.
+20. (v) Procena metodom MLE može se primeniti na vektorski parametar. Za jednostavan slučajni uzorak od $n$ normalnih slučajnih promenljivih, iskoristiti osobine eksponencijalne funkcije zarad pojednostavljivanja likelihood-a. Odrediti MLE.
+
+
