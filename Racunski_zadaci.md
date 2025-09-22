@@ -136,7 +136,7 @@ Pretpostavljajući da je standardna devijacija za sijalice ovog tipa $\sigma = 8
 
 * **(c)** Odrediti veličinu uzorka $n$ koja je potrebna da bi se raspon 95\% intervala poverenja sveo na 50 h.
   
-## 3. MLE
+## 3. Maximum likelihood estimator (MLE)
 
 19. (v) Ako se eksperiment sastoji od $n$ Bernoulli trial sa verovatnoćom uspeha p, odrediti MLE.
 20. (v) Procena metodom MLE može se primeniti na vektorski parametar. Za jednostavan slučajni uzorak od $n$ normalnih slučajnih promenljivih, iskoristiti osobine eksponencijalne funkcije zarad pojednostavljivanja likelihood-a. Odrediti MLE.
