@@ -108,7 +108,7 @@ Kakav zaključak o hipotezi možemo doneti? Detaljno obrazložiti izabrani test 
 
 ### 2.3 $\chi^2$ test
 
-15. (v)  Direktor škole želi da sazna tokom kojih dana u nedelji učenici najčešće izostaju. On očekuje da će učenici izostajati podjednako tokom petodnevne školske nedelje. Direktor bira slučajan uzorak od 100 nastavnika i pita ih kog dana u nedelji su primetili najveći broj izostanaka učenika. Posmatrani i očekivani rezultati prikazani su u tabeli ispod. Na osnovu ovih rezultata, da li se dani sa najvećim brojem izostanaka javljaju sa jednakim frekvencijama, kao što je direktor pretpostavio? Koristiti nivo značajnosti od $5\%$.
+15. (v)  Direktor škole želi da sazna tokom kojih dana u nedelji učenici najčešće izostaju. On očekuje da će učenici izostajati podjednako tokom petodnevne školske nedelje. Direktor bira slučajan uzorak od 100 nastavnika i pita ih kog dana u nedelji su primetili najveći broj izostanaka učenika. Posmatrani i očekivani rezultati prikazani su u tabeli ispod. Na osnovu ovih rezultata, da li se dani sa najvećim brojem izostanaka javljaju sa jednakim frekvencijama, kao što je direktor pretpostavio? Koristiti nivo značajnosti od 5%.
 
 | **Dan**         | Ponedeljak | Utorak | Sreda | Četvrtak | Petak |
 |-----------------|------------|--------|-------|----------|-------|
