@@ -40,16 +40,21 @@ $$
 * **(b)** Pronaći conditional p.d.f. $f(x \mid y)$ i $f(y \mid x)$. Navesti kako su ove dve gustine povezane Bajesovom teoremom i pokazati da ona važi koristeći conditional p.d.f. zajedno sa marginal p.d.f. iz dela (a).
 
 5. Razmotriti joint p.d.f. za kontinuirane slučajne promenljive \(x\) i \(y\):
+
 $$
 f(x, y) =
 \begin{cases}
 \frac{1}{\pi R^2}, & x^2 + y^2 \leq R^2 \\
 0, & \text{u ostalim slučajevima}
 \end{cases}
-$$ Definisati nove promenljive:  
 $$
-u = \sqrt{x^2 + y^2}, \qquad v = \tan^{-1}\!\left(\frac{y}{x}\right).
+
+Definisati nove promenljive:  
+
 $$
+u = \sqrt{x^2 + y^2}, \qquad v = \tan^{-1}\left(\frac{y}{x}\right).
+$$
+
 Pri čemu vidimo da \(u\) odgovara radijusu, a \(v\) azimutalnom uglu u ravnim polarnim koordinatama i važi da su $u \geq 0~\textrm{i}~0 \leq v < 2\pi$.
 
 
